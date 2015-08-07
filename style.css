@@ -1,0 +1,24 @@
+#canvas{
+	margin: 0px auto;
+	position:relative;
+	border:1px solid silver;
+	width:500px;
+	height:400px;
+}
+
+.bullet{
+	position:absolute;
+	background-color:red;
+	border: 1px solid red;
+	width:10px;
+	height:10px;
+	border-radius:10px;
+}
+
+.enemy_plane{
+	position:absolute;
+}
+
+#explosion {
+	position: absolute;
+}
