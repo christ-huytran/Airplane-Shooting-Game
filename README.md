@@ -1,4 +1,4 @@
-airplane_game
+Airplane Shooting Game
 =============
 
-simple airplane game in javascript
+A simple game written in Javascript
